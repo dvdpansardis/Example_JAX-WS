@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EstoqueWS">
+    <output-path>$PROJECT_DIR$/classes/artifacts/EstoqueWS</output-path>
+    <root id="archive" name="EstoqueWS.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Example_JAX-WS" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="junit4" module-name="Example_JAX-WS" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
